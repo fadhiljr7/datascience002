@@ -1,0 +1,22 @@
+Hero = Heroes Name
+T_Picked = Total Heroes Picked
+T_Wins = Total Heroes Wins
+T_Loses = Total Heroes loses
+T_WinRate = (Total Win / Total Games) Win Percentage
+T_PickPercentage = (Total Picked / Total Games)Total Pick Percentage
+BS_Picked = Total Heroes Picked by Blue Side
+BS_Wins = Total Heroes Wins by Blue Side
+BS_Loses = Total Heroes Loses by Blue Side
+BS_WinRate = (BS Wins / BS Picked) Blue Side Win Percentage
+RS_Picked = Total Heroes Picked by Red Side
+RS_Wins = Total Heroes Wins by Red Side
+RS_Loses = Total Heroes Loses by Red Side
+RS_WinRate = (RS Wins / RS Picked) Red Side Win Percentage
+T_Banned = Total Heroes Banned
+T_BansPercentage = (Total Banned / Total Games) Ban Percentage
+T_PicksBans = Total Hero was either picked or banned
+T_PicksBansPercentage = (Total Pick Bans / Total Games) Pick Ban Percentage
+Played By
+Played With
+Played Vs.
+Roles = Heroes Role
