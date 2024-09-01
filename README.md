@@ -5,7 +5,7 @@ This repository contains a comprehensive analysis of the M5 World Championship d
 - data hint.txt: This file provides explanations for the abbreviations used in the column names of the M5_World_Championship.csv file.
 - M5_World_Championship.csv: The dataset containing various metrics related to hero picks, bans, and win rates during the M5 World Championship.
 - Notebook.ipynb: The Jupyter Notebook containing all the code and analysis. This notebook covers data preprocessing, exploratory data analysis, machine learning model development (using XGBoost Regressor), model evaluation, and the generation of insights based on the model's predictions.
-- Insight/Story.pptx: A PowerPoint presentation that summarizes the key insights and stories derived from the data analysis and the machine learning model. This presentation is intended to provide a clear and concise narrative of the findings.
+- Insight/Story.pdf: A PowerPoint presentation that summarizes the key insights and stories derived from the data analysis and the machine learning model. This presentation is intended to provide a clear and concise narrative of the findings.
 
 ## Project Overview
 ### Data Preprocessing
