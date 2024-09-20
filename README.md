@@ -25,6 +25,7 @@ This repository contains a comprehensive analysis of the M5 World Championship d
 
 ## How to Use
 - Clone the Repository: Clone the repository to your local machine using git clone.
+- Install dependencies: Ensure you have Python and Jupyter installed. You can install the required libraries by running: `pip install -r requirements.txt`
 - Explore the Notebook: Open the Notebook.ipynb file in Jupyter Notebook or any other compatible environment to explore the code and results.
 - Review the Insights: Open the Insight/Story.pptx file to review the key insights and stories derived from the analysis.
 
